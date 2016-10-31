@@ -1,5 +1,4 @@
 drink
 - milkshake
 - wine
-- tequlia 
 - water
